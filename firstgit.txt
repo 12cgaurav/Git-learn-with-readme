@@ -1,2 +1,3 @@
 my git first job is here
 happines first code push in to github
+now we are checking push origin command
